@@ -1,8 +1,5 @@
 # Hi, I'm Bart 👋
 
-
-<img src="https://bartvandermeeren.nl/favicon/apple-touch-icon.png">
-
 📍 **Netherlands** | 🤖 **AI Strategist & Builder** | 🚀 **Ex-CTO Growf AI**
 
 I spent 10+ years in B2B (marketing, sales, Dynamics 365 consultancy) before building a full SaaS platform from scratch as CTO of Growf AI. Now I help B2B companies figure out where AI actually fits in their business, and then build it with them.
