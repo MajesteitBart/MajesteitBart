@@ -8,9 +8,11 @@ I spent 10+ years in B2B (marketing, sales, Dynamics 365 consultancy) before bui
 
 Not my main business, but I like to play around.
 
+- 📐 **[Delano](https://github.com/MajesteitBart/delano)** - Handbook-first project management framework for coding agents. Gives Claude Code, Codex, and others a shared delivery structure with skill packs and agent adapters.
+- 🎙️ **[Seshlog](https://github.com/MajesteitBart/Seshlog)** - Desktop app that records meetings, transcribes them, and saves everything back into your Obsidian vault. Tauri + Next.js.
 - 🎯 **[Kibo Tasks](https://github.com/MajesteitBart/kibo-tasks)** - Kanban board plugin for Obsidian. Drag tasks between columns and it updates the markdown directly. Works with the Tasks plugin.
 - 🏗️ **[TalentMatcher](https://github.com/MajesteitBart/TalentMatcher)** - When a recruiter rejects a candidate, this system finds them better-fitting open positions. Uses Gemini for CV parsing, pgvector for matching, LangGraph for orchestration.
-- 🎙️ **[Seshlog](https://github.com/MajesteitBart/Seshlog)** - Desktop app that records meetings, transcribes them, and saves everything back into your Obsidian vault. Tauri + Next.js.
+
 
 ## What I do
 
