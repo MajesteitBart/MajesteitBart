@@ -20,7 +20,7 @@ I work with B2B companies on AI strategy (what to build and why), implementation
 
 ## Background
 
-Co-founded Growf AI in 2023 and built the whole platform as CTO: database design, SaaS architecture, AI workflows, integrations with LinkedIn and Mollie. Before that I ran Custonext, a growth marketing consultancy for Tech & IT companies. Started out at CTB doing consulting, online marketing, and Dynamics 365 work.
+Co-founded Growf AI in 2023 and built the whole platform as CTO. Before that I ran Custonext, a growth marketing consultancy for Tech & IT companies. Started out at CTB doing consulting, online marketing, and Dynamics 365 work.
 
 ## Connect
 
