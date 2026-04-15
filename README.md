@@ -10,6 +10,7 @@ Not my main business, but I like to play around.
 
 - ⌨️ **[Ownkey](https://github.com/MajesteitBart/ownkey-keyboard)** - Own your input. Privacy-first Android keyboard with speech-to-text on phone and watch, powered by model Mistral Voxtral. Bring your own API key (custom endpoint is optional). No monitoring of private content.
 - 📐 **[Delano](https://github.com/MajesteitBart/delano)** - Handbook-first project management framework for coding agents. Gives Claude Code, Codex, and others a shared delivery structure with skill packs and agent adapters.
+- 📲 **[ClawLine](https://github.com/MajesteitBart/ClawLine)** - Build a session-first operator console plus node companion for OpenClaw that is materially better for daily mobile use than Telegram.
 - 🎙️ **[Seshlog](https://github.com/MajesteitBart/Seshlog)** - Desktop app that records meetings, transcribes them, and saves everything back into your Obsidian vault. Tauri + Next.js.
 - 🎯 **[Kibo Tasks](https://github.com/MajesteitBart/kibo-tasks)** - Kanban board plugin for Obsidian. Drag tasks between columns and it updates the markdown directly. Works with the Tasks plugin.
 - 🏗️ **[TalentMatcher](https://github.com/MajesteitBart/TalentMatcher)** - When a recruiter rejects a candidate, this system finds them better-fitting open positions. Uses Gemini for CV parsing, pgvector for matching, LangGraph for orchestration.
