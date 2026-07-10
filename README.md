@@ -8,9 +8,10 @@ I spent 10+ years in B2B (marketing, sales, Dynamics 365 consultancy) before bui
 
 Not my main business, but I like to play around.
 
-- ⌨️ **[Ownkey](https://github.com/MajesteitBart/ownkey-keyboard)** - Own your input. Privacy-first Android keyboard with speech-to-text on phone and watch, powered by model Mistral Voxtral. Bring your own API key (custom endpoint is optional). No monitoring of private content.
 - 📐 **[Delano](https://github.com/MajesteitBart/delano)** - Handbook-first project management framework for coding agents. Gives Claude Code, Codex, and others a shared delivery structure with skill packs and agent adapters.
-- 🎤 **[Meeting Workflow Skills](https://github.com/MajesteitBart/meeting-workflow-skills)** - Simply the way I prepare my meetings and process transcriptions and notes afterwords. Use it myself in OpenClaw and Obsidian. 
+- ⌨️ **[Ownkey](https://github.com/MajesteitBart/ownkey-keyboard)** - Own your input. Privacy-first Android keyboard with speech-to-text on phone and watch, powered by model Mistral Voxtral. Bring your own API key (custom endpoint is optional). No monitoring of private content.
+- 🎤 **[Meeting Workflow Skills](https://github.com/MajesteitBart/meeting-workflow-skills)** - Simply the way I prepare my meetings and process transcriptions and notes afterwords. Use it myself in OpenClaw and Obsidian.
+- 🔌 **[T3 Code CLI](https://github.com/MajesteitBart/t3code-cli)** - A simple way to programmatically manage your projects, threads, and handover tasks to specific agents with specific models. React Agent Handover button included.
 
 #### Not actively working on:
 
