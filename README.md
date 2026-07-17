@@ -10,7 +10,7 @@ Not my main business, but I like to play around.
 
 - 📐 **[Delano](https://github.com/MajesteitBart/delano)** - Handbook-first project management framework for coding agents. Gives Claude Code, Codex, and others a shared delivery structure with skill packs and agent adapters.
 - ⌨️ **[Ownkey](https://github.com/MajesteitBart/ownkey-keyboard)** - Own your input. Privacy-first Android keyboard with speech-to-text on phone and watch, powered by model Mistral Voxtral. Bring your own API key (custom endpoint is optional). No monitoring of private content.
-- 📅 **[Bezoekje.app](https:://github.com/MajesteitBart/bezoekje)** - Developed when someone close to me became ill, and our family needed to schedule regular visits and manage chores. Just create and share a link in the group chat. No accounts needed.
+- 📅 **[Bezoekje.app](https://github.com/MajesteitBart/bezoekje)** - Developed when someone close to me became ill, and our family needed to schedule regular visits and manage chores. Just create and share a link in the group chat. No accounts needed.
 - 🎤 **[Meeting Workflow Skills](https://github.com/MajesteitBart/meeting-workflow-skills)** - Simply the way I prepare my meetings and process transcriptions and notes afterwords. Use it myself in OpenClaw and Obsidian.
 - 🔌 **[T3 Code CLI](https://github.com/MajesteitBart/t3code-cli)** - A simple way to programmatically manage your projects, threads, and handover tasks to specific agents with specific models. React Agent Handover button included.
 
