@@ -8,14 +8,16 @@ I spent 10+ years in B2B (marketing, sales, Dynamics 365 consultancy) before bui
 
 Not my main business, but I like to play around.
 
-- ⌨️ **[Ownkey](https://github.com/MajesteitBart/ownkey-keyboard)** - Own your input. Privacy-first Android keyboard with speech-to-text on phone and watch, powered by model Mistral Voxtral. Bring your own API key (custom endpoint is optional). No monitoring of private content.
-- 📅 **[Bezoekje.app](https://github.com/MajesteitBart/bezoekje)** - Developed when someone close to me became ill, and our family needed to schedule regular visits and manage chores. Just create and share a link in the group chat. No accounts needed.
+- 📱 **[Dudan](https://dudan.bvdm.ai) | [Repo](https://github.com/MajesteitBart/dudan)** - Make Hermes Agent your default assistant on Android. Includes an MCP that can take actions on your phone too.
+- ⌨️ **[Ownkey Android](https://ownkey.bvdm.ai) | [Repo](https://github.com/MajesteitBart/ownkey-keyboard)** - Own your input. Privacy-first Android keyboard with speech-to-text on your phone.
+- ⌨️ **[Ownkey Windows](https://ownkey.bvdm.ai) | [Repo](https://github.com/MajesteitBart/ownkey-windows)** - Own your input. Privacy-first Windows Voice Typing. 
+- 📅 **[Bezoekje.app](https://bezoekje.app) | [Repo](https://github.com/MajesteitBart/bezoekje)** - Developed when someone close to me became ill, and our family needed to schedule regular visits and manage chores. Just create and share a link in the group chat. No accounts needed.
 - 🎤 **[Meeting Workflow Skills](https://github.com/MajesteitBart/meeting-workflow-skills)** - Simply the way I prepare my meetings and process transcriptions and notes afterwords. Use it myself in OpenClaw and Obsidian.
 - 🔌 **[T3 Code CLI](https://github.com/MajesteitBart/t3code-cli)** - A simple way to programmatically manage your projects, threads, and handover tasks to specific agents with specific models. React Agent Handover button included.
+- 🪢 **[Strap](https://strap.bvdm.ai) | [Repo](https://github.com/MajesteitBart/Strap)** - Bootstrap your agents with context, skills, and keys.
 
-#### Not actively working on:
+Previous projects that are not actively maintained:
 
-- 📲 **[ClawLine](https://github.com/MajesteitBart/ClawLine)** - Build a session-first operator console plus node companion for OpenClaw that is materially better for daily mobile use than Telegram.
 - 🎙️ **[Seshlog](https://github.com/MajesteitBart/Seshlog)** - Desktop app that records meetings, transcribes them, and saves everything back into your Obsidian vault. Tauri + Next.js.
 - 🎯 **[Kibo Tasks](https://github.com/MajesteitBart/kibo-tasks)** - Kanban board plugin for Obsidian. Drag tasks between columns and it updates the markdown directly. Works with the Tasks plugin.
 - 🏗️ **[TalentMatcher](https://github.com/MajesteitBart/TalentMatcher)** - When a recruiter rejects a candidate, this system finds them better-fitting open positions. Uses Gemini for CV parsing, pgvector for matching, LangGraph for orchestration.
@@ -32,6 +34,6 @@ Co-founded Growf AI in 2023 and built the whole platform as CTO. Before that I r
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/-bartvandermeeren.nl-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://bartvandermeeren.nl/en)
+[![Website](https://img.shields.io/badge/-bartvandermeeren.nl-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://bvdm.ai/en)
 [![LinkedIn](https://img.shields.io/badge/-Bart_van_der_Meeren-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aistuff/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MajesteitBart)
