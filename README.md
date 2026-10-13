@@ -14,6 +14,7 @@ Not my main business, but I like to play around.
 - 📅 **[Bezoekje.app](https://bezoekje.app) | [Repo](https://github.com/MajesteitBart/bezoekje)** - Developed when someone close to me became ill, and our family needed to schedule regular visits and manage chores. Just create and share a link in the group chat. No accounts needed.
 - 🎤 **[Meeting Workflow Skills](https://github.com/MajesteitBart/meeting-workflow-skills)** - Simply the way I prepare my meetings and process transcriptions and notes afterwords. Use it myself in OpenClaw and Obsidian.
 - 🔌 **[T3 Code CLI](https://github.com/MajesteitBart/t3code-cli)** - A simple way to programmatically manage your projects, threads, and handover tasks to specific agents with specific models. React Agent Handover button included.
+- **[Linear CLI](https://github.com/MajesteitBart/linearcli)** - Read and manage Linear issues, projects, and teams from your terminal or coding agents, with one shared OAuth login.
 - 🪢 **[Strap](https://strap.bvdm.ai) | [Repo](https://github.com/MajesteitBart/Strap)** - Bootstrap your agents with context, skills, and keys.
 
 Previous projects that are not actively maintained:
