@@ -8,12 +8,21 @@ I spent 10+ years in B2B (marketing, sales, Dynamics 365 consultancy) before bui
 
 Not my main business, but I like to play around.
 
+<p>
+  <a href="https://rukoo.bvdm.ai"><img src="assets/rukoo.jpg" alt="Rukoo Mail: email worth opening, with your own agent next to the inbox" width="49%"></a>
+  <a href="https://dudan.bvdm.ai"><img src="assets/dudan.jpg" alt="Dudan: your own Hermes Agent as the assistant on your Android phone" width="49%"></a>
+  <a href="https://ownkey.bvdm.ai"><img src="assets/ownkey.jpg" alt="Ownkey: private AI typing and voice input, bring your own key" width="49%"></a>
+  <a href="https://strap.bvdm.ai"><img src="assets/strap.jpg" alt="Strap: bootstrap your agents with context, skills and keys" width="49%"></a>
+</p>
+
+- **[Rukoo Mail](https://rukoo.bvdm.ai) | [Repo](https://github.com/MajesteitBart/rukoo)** - Email and calendar client for Windows and Linux, with experimental macOS support. A chat panel next to your inbox hands mail to your own agent, such as Hermes, Codex or OpenClaw. It drafts replies and plans follow-ups, but never sends mail itself.
 - **[Dudan](https://dudan.bvdm.ai) | [Repo](https://github.com/MajesteitBart/dudan)** - Make Hermes Agent your default assistant on Android. Includes an MCP that can take actions on your phone too.
 - **[Ownkey Android](https://ownkey.bvdm.ai) | [Repo](https://github.com/MajesteitBart/ownkey-keyboard)** - Own your input. Privacy-first Android keyboard with speech-to-text on your phone.
 - **[Ownkey Windows](https://ownkey.bvdm.ai) | [Repo](https://github.com/MajesteitBart/ownkey-windows)** - Own your input. Privacy-first Windows Voice Typing.
 - **[Bezoekje.app](https://bezoekje.app) | [Repo](https://github.com/MajesteitBart/bezoekje)** - Developed when someone close to me became ill, and our family needed to schedule regular visits and manage chores. Just create and share a link in the group chat. No accounts needed.
-- **[Meeting Workflow Skills](https://github.com/MajesteitBart/meeting-workflow-skills)** - Simply the way I prepare my meetings and process transcriptions and notes afterwords. Use it myself in OpenClaw and Obsidian.
+- **[Meeting Workflow Skills](https://github.com/MajesteitBart/meeting-workflow-skills)** - Simply the way I prepare my meetings and process transcriptions and notes afterwards. Use it myself in OpenClaw and Obsidian.
 - **[T3 Code CLI](https://github.com/MajesteitBart/t3code-cli)** - A simple way to programmatically manage your projects, threads, and handover tasks to specific agents with specific models. React Agent Handover button included.
+- **[T3 Code mods](https://github.com/MajesteitBart/t3mods)** - Unofficial mods for the T3 Code web UI: thread labels, a Home view and new windows. A watcher re-applies them after every T3 Code update.
 - **[Linear CLI](https://github.com/MajesteitBart/linearcli)** - Read and manage Linear issues, projects, and teams from your terminal or coding agents, with one shared OAuth login.
 - **[Strap](https://strap.bvdm.ai) | [Repo](https://github.com/MajesteitBart/Strap)** - Bootstrap your agents with context, skills, and keys.
 
@@ -35,6 +44,6 @@ Co-founded Growf AI in 2023 and built the whole platform as CTO. Before that I r
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/-bartvandermeeren.nl-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://bvdm.ai/en)
+[![Website](https://img.shields.io/badge/-bvdm.ai-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://bvdm.ai/en)
 [![LinkedIn](https://img.shields.io/badge/-Bart_van_der_Meeren-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aistuff/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MajesteitBart)
